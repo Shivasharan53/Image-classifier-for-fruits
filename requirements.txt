@@ -3,3 +3,5 @@ matplotlib
 seaborn
 scikit-learn
 Pillow
+if you're using pip, you can install everything at once with:
+pip install -r requirements.txt
