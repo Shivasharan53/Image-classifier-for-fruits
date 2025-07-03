@@ -13,3 +13,17 @@ This is a basic machine learning project that classifies synthetic fruits (apple
 - Classification Report
 - Feature Importance Bar Chart
 - Prediction results on synthetic fruit images
+
+# Features
+RGB values
+
+Brightness
+
+Color contrast
+
+Red/Green ratio
+
+Red+Blue / Green ratio
+
+Color differences (R-G, G-B, R-B)
+
